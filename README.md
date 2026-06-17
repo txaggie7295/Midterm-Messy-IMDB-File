@@ -13,7 +13,7 @@
 The analysis uses a dataset of the top 100 IMDB-rated films, provided as a deliberately messy CSV file (`messy_IMDB_dataset.csv`) for the midterm data-cleaning exercise. The cleaned dataset is preserved in `IMDB_Cleaned.xlsx` and reproduced in a single SQLite table (`imdb_main`) for the SQL analysis. The full cleaning methodology is documented in the Data Dictionary tab of the cleaned workbook.
 
 ### Size and Structure
-- **Tables:** 1 (`movies`)
+- **Tables:** 1 (`imdb_main`)
 - **Records:** 100 films
 - **Source fields:** 12, expanded to 14 after splitting multi-value Genre and Director columns
 - **Temporal range:** 1936 (*Modern Times*) through 2020 (*1917*)
