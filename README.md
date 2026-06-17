@@ -186,4 +186,6 @@ Other limitations:
 
 Jeffrey Symons is a financial data analyst with 25 years of experience in auto finance and consumer lending. This project was completed as the midterm for the Texas State University Data Analytics Bootcamp.
 
-📧 jeffreyasymons@gmail.com · [LinkedIn](https://linkedin.com/in/jeffsymons) · [GitHub](https://github.com/txaggie7295)
+See also: github.com/txaggie7295/auto-loan-default-analysis (credit risk portfolio project)
+
+📧 [LinkedIn](https://linkedin.com/in/jeffsymons) · [GitHub](https://github.com/txaggie7295)
