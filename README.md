@@ -52,7 +52,7 @@ The question is framed around capital allocation because production attributes s
 
 **Excel** was used for data cleaning, pivot table aggregation, and the density metric. Cleaning techniques included `Get Data → From Text/CSV` import with explicit semicolon delimiter and UTF-8 encoding, `NUMBERVALUE` and `DATEVALUE` for type conversion, `Text to Columns` for multi-value field decomposition, and direct lookup against IMDB.com to recover missing values rather than discard records. All transformations are documented in the Data Dictionary tab of `IMDB_Cleaned.xlsx`.
 
-**SQLite** (via JupyterLab `%%sql` magic) was used for the score-and-income analysis. Two queries were constructed using common table expressions (CTEs) and window functions to segment films by score tier and to rank films simultaneously on critical and commercial dimensions.
+**SQLite** was used for the score-and-income analysis. Two queries were constructed using common table expressions (CTEs) and window functions to segment films by score tier and to rank films simultaneously on critical and commercial dimensions.
 
 ### The Density Metric
 
