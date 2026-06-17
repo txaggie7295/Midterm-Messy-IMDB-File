@@ -2,7 +2,7 @@
 
 **Midterm Project — Texas State University Data Analytics Bootcamp**
 **Author:** Jeffrey Symons
-**Tools:** Microsoft Excel, SQLite (via JupyterLab)
+**Tools:** Microsoft Excel, SQLite
 **Repository:** [github.com/txaggie7295/Midterm-Messy-IMDB-File](https://github.com/txaggie7295/Midterm-Messy-IMDB-File)
 
 ---
