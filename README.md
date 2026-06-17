@@ -10,7 +10,7 @@
 ## 1. Dataset Introduction
 
 ### Source
-The analysis uses a dataset of the top 100 IMDB-rated films, provided as a deliberately messy CSV file (`messy_IMDB_dataset.csv`) for the midterm data-cleaning exercise. The cleaned dataset is preserved in `IMDB_Cleaned.xlsx` and reproduced in a single SQLite table (`movies`) for the SQL analysis. The full cleaning methodology is documented in the Data Dictionary tab of the cleaned workbook.
+The analysis uses a dataset of the top 100 IMDB-rated films, provided as a deliberately messy CSV file (`messy_IMDB_dataset.csv`) for the midterm data-cleaning exercise. The cleaned dataset is preserved in `IMDB_Cleaned.xlsx` and reproduced in a single SQLite table (`imdb_main`) for the SQL analysis. The full cleaning methodology is documented in the Data Dictionary tab of the cleaned workbook.
 
 ### Size and Structure
 - **Tables:** 1 (`movies`)
